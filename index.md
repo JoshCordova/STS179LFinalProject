@@ -1,7 +1,7 @@
 
 
 
-# The Co-evolution of Surveillance and Capitalismㅤㅤㅤㅤ
+# The Co-Evolution of Surveillance and Capitalismㅤㅤㅤㅤ
 
 
 ### Members and Responsibilities:
@@ -16,7 +16,7 @@
 *Along with the responsibilities listed above, each group member is responsible for one primary source analysis and  finding effective secondary sources with which to analyze each source.*
 ## Central Theme
 
-The Co-evolution of Surveillance and Capitalism
+The Co-Evolution of Surveillance and Capitalism
 Throughout history, a desire for efficiency has driven the automation of labor, whether through the division of tasks into menial units or through the actual supplanting of humans by machines. Either case makes clear that to imagine that labor can be automated is to imagine laborers as at least somewhat mechanical. This characterization is inherently dehumanizing and reductive: only the mechanical parts of laborers are useful, and their humanity is considered a mere inconvenience. In fact, it’s most expedient to describe laborers as black boxes, such that they can be quantified only by their explicit interactions with the system.
 
 Of course, even those most infatuated with the dreams of automation recognize that people are not truly black boxes. Nevertheless, the ‘master capitalists’ – those in charge of the automaton – imagine that some parts of human behavior can be treated as such; by giving people certain inputs (reward, punishment), they can expect certain outputs. Thus, in an effort to “nudge” people toward desired, more mechanical behaviors, the master capitalist imposes practices of surveillance upon their subjects. Conveniently, the rationalized, automated workplace lends itself easily to these practices. To describe a laborer as a black box is to render their work (and hence their entire value) easily measurable and therefore easily surveilled.
