@@ -1,4 +1,4 @@
-# STS179L Final Project Proposal
+# Proposal
 
 
 ### Members and Responsibilities:
@@ -35,7 +35,7 @@ This privacy policy, which every Amazon delivery driver was required to sign, gi
 Friedmann addresses various questions raised regarding human labor and development, particularly in regards to the introduction of automation into the workplace. He comments on recent trends in production methods and argues that the introduction of electronic devices and other automated devices will have a profound impact on workers’ relationship with the interest in their jobs. This salient argument Friedmann makes supports the central thesis of our website because we are positing that the creation and introduction of automation technologies have revolutionized how people behave at work and the relationship they have with their jobs. 
 
 
-#### #Kalischko, T. and Riedl, R., 2021. Electronic Performance Monitoring in the Digital Workplace: Conceptualization, Review of Effects and Moderators, and Future Research Opportunities. Frontiers in Psychology, 12.
+#### Kalischko, T. and Riedl, R., 2021. Electronic Performance Monitoring in the Digital Workplace: Conceptualization, Review of Effects and Moderators, and Future Research Opportunities. Frontiers in Psychology, 12.
 
 This research article illuminates the drastic impacts the rise of digital technologies have had on workplaces, accelerated further by the COVID-19 pandemic. Kailschko and Riedl outline both the benefits and the detriments of increased surveillance technology. The authors introduce the concept of “Electronic Performance Monitoring” which refers to the now common use of technology to observe, record and analyze information that both directly and indirectly relates to job performance. The authors’ argument is that this advancement of technology is a paradigm shift that has enabled organizations to monitor employees extremely closely, and with greater intensity than was ever possible before. This research article brings up many key arguments that support our website’s theme because we claim that increased automation makes it easier than ever for people to be even more alienated from their work – thus resulting in increased job dissatisfaction) because their work doesn’t belong to them but rather than organization watching. 
 
