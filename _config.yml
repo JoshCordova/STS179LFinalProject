@@ -20,8 +20,9 @@
 
 # Build settings
 theme: jekyll-theme-tactile
+---
 title: STS179L Final Project
-
+---
 
 # Exclude from processing.
 # The following items will not be processed, by default.
