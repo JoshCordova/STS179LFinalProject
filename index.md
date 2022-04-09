@@ -1,8 +1,8 @@
 
 
 
-# ㅤㅤㅤㅤ
-# Proposal
+# The Co-evolution of Surveillance and Capitalismㅤㅤㅤㅤ
+
 
 ### Members and Responsibilities:
 
