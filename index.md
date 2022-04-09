@@ -1,4 +1,4 @@
-# Proposal
+## Proposal
 
 
 ### Members and Responsibilities:
