@@ -1,6 +1,6 @@
   
 
-# Automation as a Means of Control ㅤㅤㅤㅤ
+# Automation as a Means of Surveillance ㅤㅤㅤㅤ
 
 ### Central Theme
 
